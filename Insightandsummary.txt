@@ -1,0 +1,19 @@
+# Insights & Summary
+
+## Key Findings
+
+- Linear Regression achieved the best performance with an R² score of 0.605.
+- Random Forest achieved an R² score of 0.387 and performed worse on this dataset.
+- House area was the most influential feature, contributing approximately 57.21% of the total feature importance.
+- Bedrooms, stories, and bathrooms also had a significant impact on house prices.
+- Houses with larger areas and better amenities generally had higher prices.
+- The simpler Linear Regression model outperformed the more complex Random Forest model.
+- Air conditioning, basement, and guest room facilities positively influenced property value.
+
+## Business Recommendation
+
+Real estate businesses should focus on property size, number of rooms, and essential amenities when estimating market value and pricing houses.
+
+# Conclusion
+
+This project successfully predicted house prices using machine learning techniques. After comparing multiple models, Linear Regression was selected as the final model due to its superior performance. The analysis demonstrated that area is the most important factor affecting house prices, followed by bedrooms and stories. The developed model can help estimate property values and support real estate decision-making.
